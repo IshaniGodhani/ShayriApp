@@ -1,0 +1,57 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="purple_200">#FFBB86FC</color>
+    <color name="purple_500">#FF6200EE</color>
+    <color name="purple_700">#FF3700B3</color>
+    <color name="teal_200">#FF03DAC5</color>
+    <color name="teal_700">#FF018786</color>
+    <color name="black">#FF000000</color>
+    <color name="white">#FFFFFFFF</color>
+
+    <color name="start">#33ccff</color>
+    <color name="end">#ff99cc</color>
+    <color name="gra">#bdc3c7</color>
+    <color name="bla">#2c3e50</color>
+
+    <color name="gra_sta">#FF0099</color>
+    <color name="gra_end">#493240</color>
+
+    <color name="gra1_sta">#bdc3c7</color>
+    <color name="gra1_end">#2c3e50</color>
+
+    <color name="gra2_sta">#373B44</color>
+    <color name="gra2_end">#4286f4</color>
+
+    <color name="gra3_sta">#009FFF</color>
+    <color name="gra3_end">#ec2F4B</color>
+
+    <color name="gra4_sta">#005AA7</color>
+    <color name="gra4_end">#FFFDE4</color>
+
+    <color name="gra5_sta">#a8c0ff</color>
+    <color name="gra5_end">#3f2b96</color>
+
+    <color name="gra6_sta">#EECDA3</color>
+    <color name="gra6_end">#EF629F</color>
+
+    <color name="gra7_sta">#7b4397</color>
+    <color name="gra7_end">#dc2430</color>
+
+    <color name="gra8_sta">#FFA17F</color>
+    <color name="gra8_end">#00223E</color>
+
+    <color name="gra9_sta">#C9FFBF</color>
+    <color name="gra9_end">#FFAFBD</color>
+
+    <color name="col">#ee9ca7</color>
+    <color name="col1">#b20a2c</color>
+    <color name="col2">#DBE6F6</color>
+    <color name="col3">#4AC29A</color>
+    <color name="col4">#DBE6F6</color>
+    <color name="col5">#833ab4</color>
+    <color name="col6">#fcb045</color>
+    <color name="col7">#fd1d1d</color>
+    <color name="co8l">#fcb045</color>
+    <color name="col9">#FBD3E9</color>
+
+</resources>
