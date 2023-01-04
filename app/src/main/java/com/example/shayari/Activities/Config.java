@@ -24,5 +24,5 @@ public class Config {
 
 public static String[] font = {"HTOWERT.TTF", "HTOWERTI.TTF", "INFROMAN.TTF", "Inkfree.ttf", "ITCKRIST.TTF", "JOKERMAN.TTF", "LCALLIG.TTF", "LHANDW.TTF", "LSANS.TTF", "LSANSD.TTF",
  "LSANSDI.TTF", "LSANSI.TTF", "segoesc.ttf", "segoescb.ttf"};
-    public static File file;
+    public static File file = Environment.getExternalStoragePublicDirectory(Environment.DIRECTORY_DOWNLOADS);
 }
